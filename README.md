@@ -14,7 +14,7 @@
 
 ✨ Although my primary focus lies in **back-end development**, I'm also very interested in exploring other facets of software development with the end goal of becoming a proficient **full-stack developer**! I firmly believe that comprehending both the back-end and front-end sides of development is indispensable for crafting robust and user-friendly applications. Beyond that, I'm **captivated by the realms of software and game development**, **C#** being my gateway language prior to my dive into all things Java.
 
-🎮 An avid **gamer**, I enjoy all sides of gaming whether it be cooperative or competitive. There's nothing quite like collaborating with others to achieve a common goal or testing my skills against others that push you to improve or approach problems from a different angle you hadn't considered before!
+🎮 An avid **gamer**, I enjoy all sides of gaming whether it be cooperative or competitive. There's nothing quite like collaborating with others to achieve a common goal or testing your skills against others that push you to improve or approach problems from a different angle you hadn't considered before!
 
 👻 Horror **movie** enjoyer! From a very young age I loved scary movies! All movies are great but the thrill of facing something that scares you and being able to laugh it off afterwards is a talent I had to work hard to earn!
 
